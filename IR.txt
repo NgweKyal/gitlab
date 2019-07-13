@@ -12,7 +12,6 @@ int RECV_PIN = 7;
 
 IRsend irsend;
 
-IRrecv irrecv(RECV_PIN);
 
 decode_results results;
 
